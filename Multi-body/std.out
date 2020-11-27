@@ -1,0 +1,627 @@
+Features Obtained: PROE_REP2
+ NOTEBOOK
+ CMM
+ PROCESS_MFG
+ Web.Link
+ NC-SHEETMETAL
+ MOLDDESIGN-2
+ Behavioral_Modeler
+ Expert_Machinist
+ PlasticAdvisor
+ TOOLKIT
+ Chinese_Translation
+ Collaboration_Ext_CatiaV4
+ Interactive_Surface_Design
+ ISOGEN
+ Mechanism_Dynamics
+ Expert_Moldbase
+ Progressive_Die
+ Reverse_Engineering
+ Collaboration
+ Advanced_Framework
+ Collaboration_Ext_NX
+ INTF_for_CATIA_V5
+ INTF_for_I-DEAS
+ Intralink_8_0
+ Collaboration_Ext_CatiaV5
+ NC-ADVANCED
+ Clearance_Creepage
+ ECAD_COLLABORATION
+ INTF_for_JT
+ Digital_Rights_Mgt
+ EZ_TOLERANCE_ANALYSIS
+ Manikin
+ Manikin_Analysis
+ Legacy_Migration
+ ADVANCED_RENDER_2
+ Layout_Authoring
+ Layout_3D_Integration
+ ObjectToolkitCpp
+ Freestyle_Design_Extension
+ Flexible_Modeling
+ Options_Modeler
+ Options_Modeler_Basic
+ Options_Modeler_Enterprise
+ Design_Exploration
+ Update_Control
+ ObjectToolkitJava
+ ObjectToolkitJavaRuntime
+ ObjectToolkitJavaExtension
+ Harness_Stickgen
+ Harness_Stickgen_Adv
+ Mold_Analysis
+ Collaboration_Ext_SolidWorks
+ IntelligentFastnerExtension
+ GDT_ADVISOR
+ Advanced_Rendering_III
+ PRODUCT_INSIGHT
+ ADDITIVE_MANUFACTURING
+ SHUTOFF_FACES
+ CLEARANCE_CREEPAGE
+ TOPOLOGY_OPT_BASIC
+ TOPOLOGY_OPT_ADVANCE
+ GDT_ENTERPRISE
+ CFD_BASIC
+ Materialise_Support
+ Build_Process_Interface
+ 3AXIS_MOLD_TOOLING
+ Collaboration_Ext_Inventor
+ CREO_SIMULATION_LIVE
+ CREO_SIMULATION_LIVE_FLUID
+ Generative_Design
+ CABLING
+ COMPOSITE
+ DIAGRAM
+ NC-CHECK
+ HARNESS-MFG
+ DIEFACE
+ ASSEMBLY
+ FEM-POST
+ PIPING
+ SCAN_TOOLS
+ CASTING
+ MESH
+ VERIFY
+ 96
+ PROCESS_ASM
+ CFD_ADVANCED_PLUS_SET
+ Options_Modeler_Enterprise_SET
+Features Not Obtained: 
+ IsoDraw_3D_Extension
+ IsoCompose
+ PVCOMPARE_ECAD
+ PVCOMPARE_CLI
+WdgMtb: ACCESS solid_surf_rg@EXTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS remove_material_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS thick_sketch_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS DefineRmbBtn@extrev_feature_popup@EXTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS SketchRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS add_draft_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS cap_ends_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS solid_surf_rg@EXTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS remove_material_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS thick_sketch_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS DefineRmbBtn@extrev_feature_popup@EXTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS SketchRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS add_draft_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS cap_ends_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS solid_surf_rg@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS remove_material_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS thick_sketch_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS DefineRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS SketchRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS add_draft_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS cap_ends_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS solid_surf_rg@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS remove_material_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS thick_sketch_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS DefineRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS SketchRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS add_draft_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS cap_ends_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS solid_surf_rg@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS remove_material_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS thick_sketch_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS DefineRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS SketchRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS add_draft_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS cap_ends_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS solid_surf_rg@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS remove_material_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS thick_sketch_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS DefineRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS SketchRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS add_draft_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS cap_ends_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS solid_surf_rg@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS remove_material_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS thick_sketch_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS DefineRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS SketchRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS add_draft_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS cap_ends_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS solid_surf_rg@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS remove_material_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS thick_sketch_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS DefineRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS SketchRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS add_draft_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS cap_ends_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS solid_surf_rg@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS remove_material_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS thick_sketch_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS DefineRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS SketchRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS add_draft_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS cap_ends_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS solid_surf_rg@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS remove_material_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS thick_sketch_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS DefineRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS SketchRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS add_draft_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS cap_ends_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS solid_surf_rg@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS remove_material_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS thick_sketch_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS DefineRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS SketchRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS add_draft_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS cap_ends_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS solid_surf_rg@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS remove_material_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS thick_sketch_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS DefineRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS SketchRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS add_draft_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS cap_ends_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS solid_surf_rg@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS remove_material_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS thick_sketch_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS DefineRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS SketchRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS add_draft_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS cap_ends_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS solid_surf_rg@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS remove_material_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS thick_sketch_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS DefineRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS SketchRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS add_draft_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS cap_ends_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS solid_surf_rg@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS remove_material_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS thick_sketch_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS DefineRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS SketchRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS add_draft_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS cap_ends_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS solid_surf_rg@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS remove_material_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS thick_sketch_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS DefineRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS SketchRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS add_draft_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS cap_ends_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS solid_surf_rg@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS remove_material_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS thick_sketch_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS DefineRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS SketchRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS add_draft_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS cap_ends_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS solid_surf_rg@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS remove_material_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS thick_sketch_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS DefineRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS SketchRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS add_draft_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS cap_ends_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS solid_surf_rg@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS remove_material_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS thick_sketch_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS DefineRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS SketchRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS add_draft_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS cap_ends_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS solid_surf_rg@EXTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS remove_material_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS thick_sketch_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS DefineRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS SketchRmbBtn@extrev_feature_popup@EXTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS add_draft_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS cap_ends_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS solid_surf_rg@EXTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS remove_material_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS thick_sketch_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS DefineRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS SketchRmbBtn@extrev_feature_popup@EXTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS add_draft_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS cap_ends_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS solid_surf_rg@EXTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS remove_material_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS thick_sketch_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS DefineRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS SketchRmbBtn@extrev_feature_popup@EXTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS add_draft_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS cap_ends_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS solid_surf_rg@EXTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS remove_material_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS thick_sketch_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS DefineRmbBtn@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS SketchRmbBtn@extrev_feature_popup@EXTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS add_draft_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+WdgMtb: ACCESS cap_ends_popup@extrev_feature_popup@EXTRUSION is invisible (UI)
+Connection restored with License Server(s)  1
+Connection restored with License Server(s)  1
+Connection restored with License Server(s)  1
+Connection restored with License Server(s)  1
+Connection restored with License Server(s)  1
+Connection restored with License Server(s)  1
+Connection restored with License Server(s)  1
+Connection restored with License Server(s)  1
+Connection restored with License Server(s)  1
+Connection restored with License Server(s)  1
+Connection restored with License Server(s)  1
+Connection restored with License Server(s)  1
+Connection restored with License Server(s)  1
+Connection restored with License Server(s)  1
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is unavailable (CB)
+Connection restored with License Server(s)  1
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is unavailable (CB)
+Connection restored with License Server(s)  1
+Connection restored with License Server(s)  1
+Connection restored with License Server(s)  1
+Connection restored with License Server(s)  1
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is invisible (UI)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is unavailable (CB)
+Connection restored with License Server(s)  1
+Connection restored with License Server(s)  1
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS SldSrf@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Trim@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS Thin@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS SectType@SWPPROTRUSION is AVAILABLE (CB)
+WdgMtb: ACCESS Sketch@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS CapEnds@SWPPROTRUSION is unavailable (CB)
+WdgMtb: ACCESS MergeEnds@SWPPROTRUSION is unavailable (CB)
+Connection restored with License Server(s)  1
+Connection restored with License Server(s)  1
+Connection restored with License Server(s)  1
+Connection restored with License Server(s)  1
+Connection restored with License Server(s)  1
+Connection restored with License Server(s)  1
+Connection restored with License Server(s)  1
+Connection restored with License Server(s)  1
+Connection restored with License Server(s)  1
+Connection restored with License Server(s)  1
+Connection restored with License Server(s)  1
+Connection restored with License Server(s)  1
+Connection restored with License Server(s)  1
+Connection restored with License Server(s)  1
+Connection restored with License Server(s)  1
+Connection restored with License Server(s)  1
